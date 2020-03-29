@@ -1,5 +1,5 @@
+'''
 print ("\ntest")
-
 #potęgowanie
 pow=2**10
 print(pow)
@@ -19,4 +19,7 @@ print("Długość imienia: " + lenghtName)
 lenSurname=len(surname)
 print(lenSurname)
 print(type(surname))
+'''
 
+surname="nowakowski"
+print(surname[-2:])

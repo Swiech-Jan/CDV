@@ -1,3 +1,3 @@
 print("String")
-newString=("string2")
+newString=("string 2")
 print(newString)
